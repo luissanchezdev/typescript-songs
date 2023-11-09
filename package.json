@@ -1,0 +1,19 @@
+{
+  "name": "typescript-songs",
+  "version": "1.0.0",
+  "description": "Usando clases, interfaces y tipos con TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisscodev/songs-typescript.git"
+  },
+  "author": "Luis Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisscodev/songs-typescript/issues"
+  },
+  "homepage": "https://github.com/luisscodev/songs-typescript#readme"
+}
