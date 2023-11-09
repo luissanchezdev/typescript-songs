@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/luisscodev/songs-typescript/issues"
   },
-  "homepage": "https://github.com/luisscodev/songs-typescript#readme"
+  "homepage": "https://github.com/luisscodev/songs-typescript#readme",
+  "type": "module"
 }
